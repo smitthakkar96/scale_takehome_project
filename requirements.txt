@@ -1,0 +1,13 @@
+click==6.7
+Flask==0.12
+flask-reqparse==2.0.1
+itsdangerous==0.24
+Jinja2==2.9.5
+MarkupSafe==0.23
+mongoengine==0.11.0
+py==1.4.32
+PyJWT==1.4.2
+pymongo==3.4.0
+pytest==3.0.6
+six==1.10.0
+Werkzeug==0.11.15
